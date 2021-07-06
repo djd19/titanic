@@ -1,2 +1,2 @@
-# titanic
-Kaggle Titanic Competition
+# Titanic
+[Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/overview/evaluation)
